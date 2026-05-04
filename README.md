@@ -41,6 +41,7 @@ Matplotlib
  # Results
  Error analysis, implemented in the current cell, calculates and visualizes the word accuracy and the total count of words based on their length. This helps in understanding how the model's performance varies with the length of the words it attempts to recognize. It specifically uses the test set predictions to generate these statistics.
 
-<img width="1552" height="436" alt="accuracy" src="https://github.com/user-attachments/assets/73867b79-4ad2-4824-8bfd-635fb68c4e57" />
+<img width="1552" height="436" alt="accuracy" src="https://github.com/user-attachments/assets/a58c3357-e75a-4c7d-8a7b-983f1cea8506" />
+
 
 
