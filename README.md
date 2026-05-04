@@ -20,7 +20,7 @@ Includes alphabets (A–Z, a–z)
 
 # Model Architecture (CNN)
 
-<img width="715" height="456" alt="model arc" src="https://github.com/user-attachments/assets/41e82b39-2666-4d4f-8e66-4a8811b76cc7" />
+<img width="715" height="456" alt="model arc" src="https://github.com/user-attachments/assets/5b104e5b-4495-4f37-80ce-c8c10c70f1f7" />
 
 # Technologies Used
 
